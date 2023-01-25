@@ -9,4 +9,4 @@ H23-Test
 - La
 - La
 
-<img src:"image.jpg" alt:"Antonio Buofassa">
+<img src="image.jpg" alt="Antonio Buofassa">
